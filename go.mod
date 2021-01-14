@@ -1,3 +1,3 @@
-module github.com/go-extras/structs
+module github.com/leftclick-io/structs
 
 go 1.15
